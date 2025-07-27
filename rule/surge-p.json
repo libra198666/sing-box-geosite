@@ -1,0 +1,69 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cc.coemn.com",
+        "emby.younoyes.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "pilipili"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "9191001.xyz",
+        "api.aca.best",
+        "bfvvs.com",
+        "carryz.net",
+        "cdn.ceres9350.com",
+        "cdn.efhie.com",
+        "cdn.venus7202.com",
+        "discord.com",
+        "eggtartemby.itsmyduty.top",
+        "emby.as174.com",
+        "emby.as174.de",
+        "emby.kim",
+        "emby.ml",
+        "embyplus.org",
+        "haiwaikan.com",
+        "heisi.org",
+        "histar.tv",
+        "ibb.co",
+        "ikzybf.com",
+        "iz8qkg.com",
+        "jmsooo.com",
+        "jmsuper.com",
+        "kin6c1.com",
+        "mefun.org",
+        "misty.cx",
+        "nanflix.net",
+        "nebula-media.org",
+        "nivod.tv",
+        "nivodi.tv",
+        "nivodz.com",
+        "notion-api.splitbee.io",
+        "ntrrr.top",
+        "olemovienews.com",
+        "olevod.com",
+        "olevod.tv",
+        "picsum.photos",
+        "play.charontv.com",
+        "plex.ccemby.live",
+        "plex.embycc.link",
+        "scrapingbee.com",
+        "tanhuatv.site",
+        "themoviedb.org",
+        "thetvdb.com",
+        "tmdb.org",
+        "tnx.one",
+        "v1.mk",
+        "v82u1l.com",
+        "xmsl.org",
+        "xxlb.net"
+      ]
+    }
+  ],
+  "version": 2
+}
