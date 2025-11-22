@@ -2,8 +2,7 @@
   "rules": [
     {
       "domain": [
-        "cc.coemn.com",
-        "emby.younoyes.com"
+        "cc.coemn.com"
       ]
     },
     {
@@ -26,6 +25,7 @@
         "emby.as174.com",
         "emby.as174.de",
         "emby.kim",
+        "emby.ml",
         "haiwaikan.com",
         "heisi.org",
         "histar.tv",
@@ -57,7 +57,9 @@
         "tnx.one",
         "v1.mk",
         "v82u1l.com",
-        "wjm.eny7kg.com"
+        "wjm.eny7kg.com",
+        "xmsl.org",
+        "xxlb.net"
       ]
     }
   ],

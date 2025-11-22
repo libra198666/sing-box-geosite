@@ -87,6 +87,7 @@
         "imetyou.top",
         "infuseku.xyz",
         "jingzhe.pro",
+        "jp.younoyes.com",
         "kczybf.com",
         "kuaikan-api.com",
         "libvio.art",
@@ -121,6 +122,7 @@
         "tvbox.catvod.com",
         "ucloudhost.top",
         "us.nomaba.com",
+        "us.younoyes.com",
         "v1.ax",
         "vban.xyz",
         "viclub.top",
@@ -139,7 +141,6 @@
         "xsayang.fun",
         "xxooo.cf",
         "xytx.org",
-        "younoyes.com",
         "zh188.net"
       ]
     },
@@ -151,8 +152,10 @@
         "167.235.116.53/24",
         "193.123.232.141/24",
         "208.87.242.13/24",
+        "209.141.61.153/31",
         "216.180.0.0/16",
-        "2A01:4F8:2200:2063::2/128"
+        "2A01:4F8:2200:2063::2/128",
+        "35.197.139.161/31"
       ]
     }
   ],
