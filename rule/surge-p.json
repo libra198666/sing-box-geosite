@@ -25,6 +25,8 @@
         "emby.bangumi.ca",
         "emby.kim",
         "emby.ml",
+        "embymv.link",
+        "embymv.tk",
         "haiwaikan.com",
         "heisi.org",
         "histar.tv",
@@ -43,6 +45,7 @@
         "olemovienews.com",
         "olevod.com",
         "olevod.tv",
+        "peachmv.me",
         "picsum.photos",
         "play.charontv.com",
         "plex.ccemby.live",
@@ -58,6 +61,13 @@
         "wjm.eny7kg.com",
         "xmsl.org",
         "xxlb.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "108.181.0.21/24",
+        "193.123.232.141/24",
+        "208.87.242.13/24"
       ]
     }
   ],

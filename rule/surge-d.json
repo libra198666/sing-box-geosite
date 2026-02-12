@@ -66,8 +66,6 @@
         "emby.my",
         "emby.pro",
         "emby3.mcjoker.xyz",
-        "embymv.link",
-        "embymv.tk",
         "embyru.222921.xyz",
         "emos.lol",
         "emosstore.sbs",
@@ -111,7 +109,6 @@
         "muouso.fun",
         "nssurge.com",
         "okemby.org",
-        "peachmv.me",
         "poloemby.xyz",
         "pstatp.com",
         "push2.eastmoney.com",
@@ -156,11 +153,8 @@
     {
       "ip_cidr": [
         "103.160.204.120/32",
-        "108.181.0.21/24",
         "138.199.9.104/32",
         "167.235.116.53/24",
-        "193.123.232.141/24",
-        "208.87.242.13/24",
         "209.141.61.153/31",
         "216.180.0.0/16",
         "23.237.228.132/24",
